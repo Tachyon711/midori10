@@ -1,4 +1,6 @@
 # Midori Next Generation v.10.0.2
+> [!WARNING] Some Electron-based applications, especially browsers might be unsafe to use and consume a lot of resources. For general use, I recommend using [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/).
+
 This repository is for archiving purposes only, no copyright infringement intended. Midori Next Generation v.10.0.2 is an Electron-based browser for Windows, released sometime around 2022 prior Astian Inc.'s website redesign. It is a fork of [Wexond](https://github.com/wexond/browser-base). It comes with almost everything a browser ships with, I suppose. It works just fine on poltato pcs as well, just in case.
 
 ## Features
