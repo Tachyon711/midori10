@@ -15,10 +15,17 @@ This repository is for archiving purposes only, no copyright infringement intend
 *Copied from midori://settings*
 
 Your version of Midori is v.10.0.2
+
 Midori is a privacy orientated browser with tons of features such as a built in Ad Blocker. Midori is made with love by the Astian, Inc. Big thanks to all our contributers...
+
 Astian, Inc - Development and Code
+
 Wexond - Original Fork
+
 Preknowledge - Contributer
+
 JOshua - Graphic Designer
+
 Mauro - Contributer
+
 HzzaAwesome - Graphic Designer
